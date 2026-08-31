@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" role="img" aria-label="Réseau de partenaires verriers européens — emplacement à remplacer">
+  <defs>
+    <linearGradient id="bgN" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#232327"/>
+      <stop offset="1" stop-color="#131315"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="800" fill="url(#bgN)"/>
+  <g stroke="#a8763f" stroke-opacity="0.4" stroke-width="1.2">
+    <line x1="260" y1="220" x2="700" y2="360"/>
+    <line x1="700" y1="360" x2="1120" y2="200"/>
+    <line x1="700" y1="360" x2="520" y2="560"/>
+    <line x1="700" y1="360" x2="960" y2="580"/>
+    <line x1="260" y1="220" x2="520" y2="560"/>
+    <line x1="1120" y1="200" x2="960" y2="580"/>
+  </g>
+  <g fill="#c9a06a">
+    <circle cx="700" cy="360" r="10"/>
+    <circle cx="260" cy="220" r="6"/>
+    <circle cx="1120" cy="200" r="6"/>
+    <circle cx="520" cy="560" r="6"/>
+    <circle cx="960" cy="580" r="6"/>
+  </g>
+  <g opacity="0.08" stroke="#f5f3ee">
+    <line x1="0" y1="200" x2="1400" y2="200"/>
+    <line x1="0" y1="400" x2="1400" y2="400"/>
+    <line x1="0" y1="600" x2="1400" y2="600"/>
+  </g>
+  <text x="60" y="740" font-family="Inter, sans-serif" font-size="15" letter-spacing="2" fill="#c9a06a" opacity="0.75">SECOVA — EMPLACEMENT PHOTO · RÉSEAU DE PARTENAIRES VERRIERS</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 1200" role="img" aria-label="Assortiment de bocaux en verre — emplacement à remplacer">
+  <defs>
+    <linearGradient id="bgJ" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#292a2d"/>
+      <stop offset="1" stop-color="#141416"/>
+    </linearGradient>
+    <linearGradient id="glJ" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a4a4e"/>
+      <stop offset="1" stop-color="#1c1c1f"/>
+    </linearGradient>
+    <linearGradient id="lidJ" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9a06a"/>
+      <stop offset="1" stop-color="#8a6335"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="1200" fill="url(#bgJ)"/>
+  <g opacity="0.05" stroke="#f5f3ee">
+    <line x1="0" y1="300" x2="960" y2="300"/>
+    <line x1="0" y1="600" x2="960" y2="600"/>
+    <line x1="0" y1="900" x2="960" y2="900"/>
+  </g>
+  <rect x="0" y="980" width="960" height="3" fill="#a8763f" opacity="0.5"/>
+  <g transform="translate(250,760)"><rect x="-70" y="0" width="140" height="180" rx="16" fill="url(#glJ)"/><rect x="-76" y="-24" width="152" height="30" rx="8" fill="url(#lidJ)"/></g>
+  <g transform="translate(480,700)"><rect x="-90" y="0" width="180" height="240" rx="18" fill="url(#glJ)"/><rect x="-96" y="-28" width="192" height="34" rx="9" fill="url(#lidJ)"/></g>
+  <g transform="translate(720,760)"><rect x="-64" y="0" width="128" height="170" rx="14" fill="url(#glJ)"/><rect x="-70" y="-22" width="140" height="28" rx="7" fill="url(#lidJ)"/></g>
+  <ellipse cx="480" cy="260" rx="360" ry="120" fill="#a8763f" opacity="0.07"/>
+  <text x="48" y="1120" font-family="Inter, sans-serif" font-size="15" letter-spacing="2" fill="#c9a06a" opacity="0.75">SECOVA — EMPLACEMENT PHOTO · BOCAUX EN VERRE</text>
+</svg>
